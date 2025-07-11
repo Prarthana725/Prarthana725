@@ -1,3 +1,4 @@
+
 <!-- Header Section -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A93DCB&center=true&vCenter=true&width=900&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Turning+Ideas+into+Code+%F0%9F%92%A1" alt="Typing Intro" />
@@ -20,13 +21,13 @@
 ### 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prarthana8774&show_icons=true&theme=radical&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prarthana725&show_icons=true&theme=radical&count_private=true" height="170" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthana8774&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prarthana725&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthana8774&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prarthana725&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -34,7 +35,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prarthana8774&bg_color=0f172a&color=84cc16&line=22d3ee&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prarthana725&bg_color=0f172a&color=84cc16&line=22d3ee&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -77,10 +78,8 @@
   - Web Development (Frontend & Backend)
   - UI/UX Design in Figma
 
-🚀 Goals:
-  - Publish a personal portfolio
-  - Contribute to open-source projects
-  - Learn React or Vue for dynamic frontend
+
+
 
 
 
