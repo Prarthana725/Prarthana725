@@ -1,6 +1,6 @@
 <!-- README.md for Prarthana Karunasena -->
 
-<!-- 🌸 Professional + Creative Header -->
+<!-- Header -->
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A93DCB&center=true&vCenter=true&width=1000&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Turning+Ideas+into+Code+%F0%9F%92%A1" alt="Typing Intro" />
@@ -9,11 +9,10 @@
 
 </div>
 
----
 
 ### 👩‍💻 About Me
 
-- 🎓 2nd Year BSc (Hons) in Software Engineering @ NSBM Green University  
+ 
 - 🌱 Currently exploring: `Java`, `PHP`, `MySQL`, `HTML`, `CSS`, `JS`, and `Figma`  
 - 🎨 Interested in combining logic and creativity with UI/UX  
 - ✨ Passionate about building real-world solutions  
@@ -57,9 +56,4 @@
   - Web Development (Frontend & Backend)
   - UI/UX Design in Figma
 
-🎯 Goals:
-  - Build a Portfolio Website
-  - Start Real-World Projects
-  - Prepare for 6th Semester Internship
 
- 
