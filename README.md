@@ -1,30 +1,32 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A93DCB&center=true&vCenter=true&width=1000&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Turning+Ideas+into+Code+%F0%9F%92%A1" alt="Typing Intro" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20World%20of%20Code%20💻&height=120&fontColor=ffffff&fontAlign=50&fontSize=25&descAlign=50&animation=twinkling&desc=&customColorList=10,7,13,17" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A93DCB&center=true&vCenter=true&width=900&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Turning+Ideas+into+Code+%F0%9F%92%A1" alt="Typing Intro" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20World%20of%20Code%20💻&height=100&fontColor=ffffff&fontAlign=50&fontSize=24&animation=twinkling&customColorList=10,7,13,17" />
 </div>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently exploring: `Java`, `PHP`, `MySQL`, `HTML`, `CSS`, `JS`, and `Figma`
-- 🎨 Interested in combining logic and creativity with UI/UX
-- ✨ Passionate about building real-world solutions
+- 🌱 Currently exploring: `Java`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, and `Figma`
+- 🎨 Passionate about blending logic & creativity through UI/UX design
+- ✨ Building real-world solutions one line of code at a time
 - 🦄 Fun Fact: People call me **Keshi**
-- 📫 Reach me: **prarthana8774@gmail.com**
+- 📫 Reach me at: [prarthana8774@gmail.com](mailto:prarthana8774@gmail.com)
 
 ---
 
 ### 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithya-Ruwanpura&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-Ruwanpura&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prarthana8774&show_icons=true&theme=radical&count_private=true" height="170" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthana8774&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Ruwanpura&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthana8774&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -32,7 +34,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adithya-Ruwanpura&bg_color=0f172a&color=84cc16&line=22d3ee&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prarthana8774&bg_color=0f172a&color=84cc16&line=22d3ee&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -48,16 +50,19 @@
 ### 💼 Connect with Me
 
 <p align="center">
-  <a href="mailto:prarthana8774@gmail.com" target="_blank">
+  <a href="mailto:prarthana8774@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/prarthana-karunasena/" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prarthana-karunasena/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/yourusername" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" height="35" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35" height="35" alt="Instagram" />
   </a>
 </p>
@@ -71,6 +76,12 @@
   - Java (OOP + Projects)
   - Web Development (Frontend & Backend)
   - UI/UX Design in Figma
+
+🚀 Goals:
+  - Publish a personal portfolio
+  - Contribute to open-source projects
+  - Learn React or Vue for dynamic frontend
+
 
 
 
