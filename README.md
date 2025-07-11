@@ -27,13 +27,20 @@
 ### 💼 Connect with Me
 
 <p align="center">
-  <a href="mailto:prarthana8774@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/prarthana-karunasena/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge"/></a>
-  <a href="https://www.facebook.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge"/></a>
+  <a href="mailto:prarthana8774@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/prarthana-karunasena/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram" />
+  </a>
 </p>
 
----
 
 ### 🧰 Tech Stack
 
