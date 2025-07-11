@@ -1,15 +1,13 @@
 <!-- README.md for Prarthana Karunasena -->
 
-<!-- 👋 Professional Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f2027,203a43,2c5364&height=200&section=header&text=Hi%20I'm%20Prarthana%20Karunasena!%20👋&fontSize=34&fontColor=ffffff" />
-</p>
+<!-- 🌸 Professional + Creative Header -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A93DCB&center=true&vCenter=true&width=1000&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Turning+Ideas+into+Code+%F0%9F%92%A1" alt="Typing Intro" />
 
-<h2 align="center">✨ Aspiring Software Engineer | 💻 Web Dev Enthusiast | 🎨 UI/UX Explorer</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20World%20of%20Code%20💻&height=120&fontColor=ffffff&fontAlign=50&fontSize=25&descAlign=50&animation=twinkling&desc=&customColorList=10,7,13,17" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F58CFD&center=true&vCenter=true&width=435&lines=I'm+Prarthana+aka+Keshi+🌸;Building+Ideas+into+Code+💡;Java+%7C+Web+Dev+%7C+UI%2FUX+Design" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
