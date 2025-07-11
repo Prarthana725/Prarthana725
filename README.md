@@ -1,23 +1,47 @@
-<!-- README.md for Prarthana Karunasena -->
-
-<!-- Header -->
+<!-- Header Section -->
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A93DCB&center=true&vCenter=true&width=1000&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Turning+Ideas+into+Code+%F0%9F%92%A1" alt="Typing Intro" />
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20World%20of%20Code%20💻&height=120&fontColor=ffffff&fontAlign=50&fontSize=25&descAlign=50&animation=twinkling&desc=&customColorList=10,7,13,17" />
-
 </div>
 
+---
 
 ### 👩‍💻 About Me
 
- 
-- 🌱 Currently exploring: `Java`, `PHP`, `MySQL`, `HTML`, `CSS`, `JS`, and `Figma`  
-- 🎨 Interested in combining logic and creativity with UI/UX  
-- ✨ Passionate about building real-world solutions  
-- 🦄 Fun Fact: People call me **Keshi**  
+- 🌱 Currently exploring: `Java`, `PHP`, `MySQL`, `HTML`, `CSS`, `JS`, and `Figma`
+- 🎨 Interested in combining logic and creativity with UI/UX
+- ✨ Passionate about building real-world solutions
+- 🦄 Fun Fact: People call me **Keshi**
 - 📫 Reach me: **prarthana8774@gmail.com**
+
+---
+
+### 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adithya-Ruwanpura&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-Ruwanpura&theme=radical" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Ruwanpura&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adithya-Ruwanpura&bg_color=0f172a&color=84cc16&line=22d3ee&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,figma,vscode,github,netbeans" />
+</p>
 
 ---
 
@@ -40,14 +64,6 @@
 
 ---
 
-### 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,figma,vscode,github,netbeans" />
-</p>
-
----
-
 ### 🔭 Currently Working On
 
 ```yaml
@@ -55,5 +71,6 @@
   - Java (OOP + Projects)
   - Web Development (Frontend & Backend)
   - UI/UX Design in Figma
+
 
 
