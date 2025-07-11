@@ -17,7 +17,6 @@
 - 📫 Reach me at: [prarthana8774@gmail.com](mailto:prarthana8774@gmail.com)
 
 ---
-
 ### 🌟 GitHub Stats
 
 <p align="center">
@@ -26,17 +25,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prarthana725&theme=radical" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prarthana725&layout=compact&theme=radical" />
-</p>
 
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prarthana725&bg_color=0f172a&color=84cc16&line=22d3ee&point=ffffff&area=true&hide_border=true" />
-</p>
 
 ---
 
