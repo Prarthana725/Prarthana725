@@ -44,15 +44,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" height="35" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prarthana-karunasena/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/prarthana-karunasena-a3baa3235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/share/1Cmzj6XNMN/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" height="35" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/__.prar__.ni?igsh=MThyaXB3dGZpamMzeg==" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35" height="35" alt="Instagram" />
   </a>
 </p>
