@@ -1,20 +1,37 @@
-<!-- Header -->
+<!-- 💜 Aesthetic Welcome Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9F70FD&center=true&vCenter=true&width=900&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+|+Web+Dev+|+UI%2FUX+Explorer;Turning+Ideas+into+Code+💡" alt="Typing Intro" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F70FD,100:AEBAF8&text=Welcome+to+My+Code+World+🌍&fontAlign=50&fontSize=22&height=100&animation=twinkling&fontColor=ffffff" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Crafting+Code+with+Creativity+💡" alt="Typing Intro" />
+
+  <br><br>
+
+  <h2 align="center">
+    🌸 <i>Welcome to My Code World</i> 🌍
+  </h2>
+
+  <p align="center">
+    💻 Passionate about creating <b>beautiful</b> and <b>functional</b> digital experiences ✨
+  </p>
+
 </div>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 💻 I'm a **1st-year Software Engineering Undergraduate**
-- 🌱 Exploring: `Java`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Figma`
-- 🎨 Love combining logic + design in UI/UX
-- ✨ Building real-world projects to learn faster
+- 🎓 1st-year Software Engineering Undergraduate @ NSBM
+- 🌱 Currently Learning: `Java`, `PHP`, `MySQL`, `JavaScript`, `Figma`
+- 🎨 UI/UX lover — blending creativity with functionality
 - 🦄 People call me **Keshi**
-- 📬 Contact me: [prarthana8774@gmail.com](mailto:prarthana8774@gmail.com)
+- 📬 Reach me: [prarthana8774@gmail.com](mailto:prarthana8774@gmail.com)
+
+---
+
+### 💻 Coding From Home
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prarthana725/Prarthana725/main/coding-from-home-girly.png" width="250" alt="Coding From Home - Girly Style"/>
+</p>
 
 ---
 
@@ -27,12 +44,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prarthana725&style=flat-square&color=9F70FD" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Prarthana725&style=flat-square&color=ff69b4" alt="Profile Views" />
 </p>
 
 ---
 
-### 🧰 My Toolbox
+### 🧰 My Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,figma,vscode,github,netbeans" />
@@ -40,7 +57,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Let’s Connect
 
 <p align="center">
   <a href="mailto:prarthana8774@gmail.com" target="_blank">
@@ -66,9 +83,9 @@
 
 ```yaml
 💡 Learning:
-  - Java (OOP + mini-projects)
-  - Frontend + Backend Web Dev
-  - UI/UX with Figma
+  - Java (OOP + Mini Projects)
+  - Full Stack Web Development
+  - UI/UX Case Studies in Figma
 
 
 
