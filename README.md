@@ -16,8 +16,8 @@
     <img src="https://komarev.com/ghpvc/?username=Prarthana725&style=for-the-badge&color=ff69b4" alt="Profile Views" />
   </p>
 
-  <!-- Girly Coding Image -->
-  <img src="https://raw.githubusercontent.com/Prarthana725/Prarthana725/main/coding-from-home-girly.png" width="220" alt="Coding From Home - Girly Style"/>
+  <!-- Image -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"/>
 
 </div>
 
