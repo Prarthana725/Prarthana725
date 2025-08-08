@@ -17,7 +17,7 @@
   </p>
 
   <!-- Image -->
-   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+   <img height="150" src="https://creator.lottiefiles.com/?remixId=beba8272-e2bc-4275-a22e-000448210415&utm_source=&utm_medium=creator"  />
 
 
 </div>
