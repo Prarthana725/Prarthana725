@@ -17,7 +17,7 @@
   </p>
 
   <!-- Image -->
-   <img height="150" src="https://creator.lottiefiles.com/?remixId=beba8272-e2bc-4275-a22e-000448210415&utm_source=&utm_medium=creator"  />
+   <img height="150" src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2MzM0MDYsIm5iZiI6MTc1NDYzMzEwNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA4VDA2MDUwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ODliMTU4ZWViYmRiMDM4ODAzMDRhM2U0OWJlNGI1MGNkNGEzMzVlNTlkNTVhM2U5YjRjOWFkMDhhMmJhOWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U9E5kDt8eXgw2-ppy_ifCpKwQrtz4lSQa6wQ1SLvTVE"  />
 
 
 </div>
