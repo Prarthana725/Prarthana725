@@ -1,17 +1,23 @@
-<!-- 💜 Aesthetic Welcome Header -->
+<!--Header -->
 <div align="center">
 
+  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+I'm+Prarthana+Karunasena!+👋;Also+known+as+Keshi+🦄;Aspiring+Software+Engineer+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Crafting+Code+with+Creativity+💡" alt="Typing Intro" />
 
-  <br><br>
+  <br/><br/>
 
+  <!-- Welcome Title -->
   <h2 align="center">
-    🌸 <i>Welcome to My Code World</i> 🌍
+     <i>Welcome to My Code World</i> 🌍
   </h2>
 
+  <!-- Profile Views -->
   <p align="center">
-    💻 Passionate about creating <b>beautiful</b> and <b>functional</b> digital experiences ✨
+    <img src="https://komarev.com/ghpvc/?username=Prarthana725&style=for-the-badge&color=ff69b4" alt="Profile Views" />
   </p>
+
+  <!-- Girly Coding Image -->
+  <img src="https://raw.githubusercontent.com/Prarthana725/Prarthana725/main/coding-from-home-girly.png" width="220" alt="Coding From Home - Girly Style"/>
 
 </div>
 
@@ -27,24 +33,12 @@
 
 ---
 
-### 💻 Coding From Home
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prarthana725/Prarthana725/main/coding-from-home-girly.png" width="250" alt="Coding From Home - Girly Style"/>
-</p>
-
----
-
-### 📊 GitHub Stats & Visitors
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prarthana725&show_icons=true&theme=radical&count_private=true" height="170" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prarthana725&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prarthana725&style=flat-square&color=ff69b4" alt="Profile Views" />
 </p>
 
 ---
@@ -85,7 +79,4 @@
 💡 Learning:
   - Java (OOP + Mini Projects)
   - Full Stack Web Development
-  - UI/UX Case Studies in Figma
-
-
-
+  - UI/UX with Figma
