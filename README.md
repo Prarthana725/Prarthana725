@@ -23,7 +23,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 1st-year Software Engineering Undergraduate @ NSBM
+- 🎓 Software Engineering Undergraduate 
 - 🌱 Currently Learning: `Java`, `PHP`, `MySQL`, `JavaScript`, `Figma`
 - 🎨 UI/UX lover — blending creativity with functionality
 - 🦄 People call me **Keshi**
